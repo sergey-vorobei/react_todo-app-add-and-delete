@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_todo-app-add-and-delete/static/css/main.cf440ea2.css",
-    "main.js": "/react_todo-app-add-and-delete/static/js/main.9fb2d7de.js",
+    "main.js": "/react_todo-app-add-and-delete/static/js/main.e2f2bf01.js",
     "static/media/fa-solid-900.ttf": "/react_todo-app-add-and-delete/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
     "static/media/fa-brands-400.ttf": "/react_todo-app-add-and-delete/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
     "static/media/fa-solid-900.woff2": "/react_todo-app-add-and-delete/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/react_todo-app-add-and-delete/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
     "index.html": "/react_todo-app-add-and-delete/index.html",
     "main.cf440ea2.css.map": "/react_todo-app-add-and-delete/static/css/main.cf440ea2.css.map",
-    "main.9fb2d7de.js.map": "/react_todo-app-add-and-delete/static/js/main.9fb2d7de.js.map"
+    "main.e2f2bf01.js.map": "/react_todo-app-add-and-delete/static/js/main.e2f2bf01.js.map"
   },
   "entrypoints": [
     "static/css/main.cf440ea2.css",
-    "static/js/main.9fb2d7de.js"
+    "static/js/main.e2f2bf01.js"
   ]
 }
